@@ -60,16 +60,18 @@ Repositório dedicado aos exercícios de lógica de programação e atividades p
 
 ---
 
+
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giovanni-demarchi&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanni-demarchi&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas nos repositórios" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api?username=giovanni-demarchi&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=giovanni-demarchi&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" height="170" />
 </p>
 
 > As estatísticas refletem os repositórios disponíveis no GitHub e podem mudar conforme novos projetos forem publicados.
 
 ---
+
 
 ## 🎯 Objetivos profissionais
 
